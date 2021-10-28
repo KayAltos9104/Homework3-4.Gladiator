@@ -17,29 +17,53 @@ namespace Homework3_4.Gladiator
             _name = Console.ReadLine();
             _hp = rnd.Next(10,101);
             _damage = rnd.Next(1, 21);
-            OutInfoAboutPers();
+            OutAnInfoAboutPers();
         }
 
         public void Fight(Fighter Attacked, Fighter Attacking)
         {
-            MinusHp(Attacked, Attacking);
-            OutInfoAboutFight(Attacked, Attacking);
+            MinusHp(Attacking);
+            OutAnInfoAboutFight(Attacked, Attacking);
+            OutAWinMessage(Attacking);
         }
-        public int MinusHp(Fighter Attacked, Fighter Attacking)
+        public void MinusHp(Fighter Attacking)
         {
-            Attacked._hp -= Attacking._damage;
-            return _hp;
-        }
-
-        void OutInfoAboutPers()
-        {
-            Console.WriteLine($"У {_name} {_hp} hp и {_damage} ед. урона.");
+            _hp -= Attacking._damage;
         }
 
-        void OutInfoAboutFight(Fighter Attacked, Fighter Attacking)
+        void OutAnInfoAboutPers()
         {
-            Console.WriteLine($"{Attacking._name} ударил {Attacked._name} и нанёс ему {Attacking._damage} урона.");
+            Console.WriteLine($"У персонажа {_name} {_hp} hp и {_damage} ед. урона.");
+        }
+
+        void OutAnInfoAboutFight(Fighter Attacked, Fighter Attacking)
+        {
+            Console.WriteLine($"{Attacking._name} ударил(-а) {Attacked._name} и нанёс(-ла) {Attacking._damage} ед. урона.");
             Console.WriteLine($"Теперь у {Attacked._name} {Attacked._hp} hp.");
+        }
+
+        public int HP
+        {
+            get
+            {
+                return _hp;
+            }
+        }
+
+        public int DAMAGE
+        {
+            get
+            {
+                return _damage;
+            }
+        }
+
+        void OutAWinMessage(Fighter Attacking)
+        {
+            if ((_hp - Attacking._damage) <=0 )
+            {
+                Console.WriteLine($"{Attacking._name} одержал(-а) победу в этой славной битве!");
+            }
         }
     }
 }
