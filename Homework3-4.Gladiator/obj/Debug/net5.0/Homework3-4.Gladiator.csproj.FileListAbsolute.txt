@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\bin\Debug\net5.0\Homework3-4.Gladiator.exe
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\bin\Debug\net5.0\Homework3-4.Gladiator.deps.json
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\bin\Debug\net5.0\Homework3-4.Gladiator.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\bin\Debug\net5.0\Homework3-4.Gladiator.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\bin\Debug\net5.0\Homework3-4.Gladiator.dll
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\bin\Debug\net5.0\ref\Homework3-4.Gladiator.dll
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\bin\Debug\net5.0\Homework3-4.Gladiator.pdb
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\obj\Debug\net5.0\Homework3-4.Gladiator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\obj\Debug\net5.0\Homework3-4.Gladiator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\obj\Debug\net5.0\Homework3-4.Gladiator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\obj\Debug\net5.0\Homework3-4.Gladiator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\obj\Debug\net5.0\Homework3-4.Gladiator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\obj\Debug\net5.0\Homework3-4.Gladiator.dll
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\obj\Debug\net5.0\ref\Homework3-4.Gladiator.dll
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\obj\Debug\net5.0\Homework3-4.Gladiator.pdb
+C:\Users\Admin\Desktop\C#\Дз 3-4\Homework3-4.Gladiator\Homework3-4.Gladiator\obj\Debug\net5.0\Homework3-4.Gladiator.genruntimeconfig.cache
