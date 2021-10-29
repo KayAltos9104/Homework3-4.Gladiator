@@ -15,6 +15,7 @@ namespace Homework3_4.Gladiator
                 fighter_2.Fight(fighter_2, fighter_1);
             }
             while ((fighter_1.HP - fighter_2.DAMAGE) > 0 & (fighter_2.HP - fighter_1.DAMAGE) > 0);
+            //Зачем вычитать дамаг? Почему не здоровье > 0?
         }
     }
 }
